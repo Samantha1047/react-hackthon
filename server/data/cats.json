@@ -5,7 +5,7 @@
       "imageUrl": "/images/cats/jiji.jpg",
       "isGhibli": true,
       "movie": "Kiki's Delivery Service",
-      "posterPath": "/posters/kikis-delivery-service.jpg"
+      "posterPath": "/images/cats/kikis-delivery-service.jpg"
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "imageUrl": "/images/cats/muta.jpg",
       "isGhibli": true,
       "movie": "The Cat Returns",
-      "posterPath": "/posters/the-cat-returns.jpg"
+      "posterPath": "/images/cats/the-cat-returns.jpg"
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "imageUrl": "/images/cats/the-cat-king.jpg",
       "isGhibli": true,
       "movie": "The Cat Returns",
-      "posterPath": "/posters/the-cat-returns.jpg"
+      "posterPath": "/images/cats/the-cat-returns.jpg"
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
       "imageUrl": "/images/cats/yuki.jpg",
       "isGhibli": true,
       "movie": "The Cat Returns",
-      "posterPath": "/posters/the-cat-returns.jpg"
+      "posterPath": "/images/cats/the-cat-returns.jpg"
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@
       "imageUrl": "/images/cats/haru-yoshioka.jpg",
       "isGhibli": true,
       "movie": "The Cat Returns",
-      "posterPath": "/posters/the-cat-returns.jpg"
+      "posterPath": "/images/cats/the-cat-returns.jpg"
     },
     {
       "id": 6,
@@ -45,7 +45,7 @@
       "imageUrl": "/images/cats/humbert.jpg",
       "isGhibli": true,
       "movie": "The Cat Returns",
-      "posterPath": "/posters/the-cat-returns.jpg"
+      "posterPath": "/images/cats/the-cat-returns.jpg"
     },
     {
       "id": 7,
@@ -53,7 +53,7 @@
       "imageUrl": "/images/cats/natori.jpg",
       "isGhibli": true,
       "movie": "The Cat Returns",
-      "posterPath": "/posters/the-cat-returns.jpg"
+      "posterPath": "/images/cats/the-cat-returns.jpg"
     },
     {
       "id": 8,
@@ -61,7 +61,7 @@
       "imageUrl": "/images/cats/mao.jpg",
       "isGhibli": false,
       "movie": "Darker than Black",
-      "posterPath": "/posters/darker-than-black.jpg"
+      "posterPath": "/images/cats/darker-than-black.jpg"
     },
     {
       "id": 9,
@@ -69,7 +69,7 @@
       "imageUrl": "/images/cats/babu.jpg",
       "isGhibli": false,
       "movie": "Seven Little Monsters",
-      "posterPath": "/posters/seven-little-monsters.jpg"
+      "posterPath": "/images/cats/seven-little-monsters.jpg"
     },
     {
       "id": 10,
@@ -77,7 +77,7 @@
       "imageUrl": "/images/cats/prince-lune.jpg",
       "isGhibli": true,
       "movie": "The Cat Returns",
-      "posterPath": "/posters/the-cat-returns.jpg"
+      "posterPath": "/images/cats/the-cat-returns.jpg"
     }
   ]
   

@@ -19,12 +19,26 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "LemonMilk";
+  src: url("../src/assets/fonts/LEMONMILK-RegularItalic.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "LemonMilk";
+  src: url("../src/assets/fonts/LEMONMILK-BoldItalic.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
 * {
   font-family: "LemonMilk", sans-serif;
 }
 .App {
   text-align: center;
-  background-color: #f5f5f5;
+  background-color: rgba(255, 255, 255, 0.5);
   min-height: 100vh;
   display: flex;
   justify-content: center;

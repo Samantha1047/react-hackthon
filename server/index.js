@@ -3,6 +3,7 @@ import cors from "cors";
 import crypto from "crypto";
 import "dotenv/config";
 import fs from "fs";
+import exp from "constants";
 
 const app = express();
 
@@ -10,6 +11,9 @@ app.use(cors());
 app.use(express.json());
 
 const PORT = process.env.PORT || 8080;
+
+app.use("/images/cats", express.static("./images/cats"));
+app.use("/images/posters", express.static("./images/posters"));
 
 app.get("/", (req, res) => {
   res.send("Meow");

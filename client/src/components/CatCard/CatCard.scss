@@ -3,7 +3,7 @@
   padding: 20px;
   border: 1px solid #083d77;
   border-radius: 10px;
-  background-color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.9);
   text-align: left;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   max-width: 400px;
@@ -11,5 +11,16 @@
 
   h2 {
     margin-top: 0;
+    color: #083d77;
+  }
+
+  img {
+    width: 10rem;
+  }
+
+  .movie-title {
+    font-style: italic;
+    font-weight: bold;
+    color: #083d77;
   }
 }
