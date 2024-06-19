@@ -1,0 +1,15 @@
+.cat-card {
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #083d77;
+  border-radius: 10px;
+  background-color: #ffffff;
+  text-align: left;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  box-sizing: border-box;
+
+  h2 {
+    margin-top: 0;
+  }
+}

@@ -1,0 +1,32 @@
+.home-page {
+  width: 100%;
+  max-width: 1200px;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  box-sizing: border-box;
+
+  .cats-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px 0;
+  }
+
+  .submit-button {
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #083d77;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+      background-color: #a9d0f5;
+    }
+  }
+}
