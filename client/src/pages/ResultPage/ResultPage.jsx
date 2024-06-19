@@ -11,6 +11,7 @@ const ResultPage = ({ catData, selectedCat, handleRetry }) => {
   return (
     <div className="result-page">
       <Header title={isCorrect ? "Congratulations! You found the non-Ghibli cat!" : "Oops! Try again!"} />
+      <p className="detail-info">Click on each cat to see where it comes from!</p>
       <div className="cats-grid">
         {catData.map((cat) => (
           <CatImage key={cat.id} cat={cat} handleCatSelection={setSelectedDetailCat} isSelected={selectedDetailCat?.id === cat.id} />
