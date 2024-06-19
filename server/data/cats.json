@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Jiji",
+      "imageUrl": "/images/cats/jiji.jpg",
+      "isGhibli": true,
+      "movie": "Kiki's Delivery Service",
+      "posterPath": "/posters/kikis-delivery-service.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Renaldo Moon aka Moon aka Muta",
+      "imageUrl": "/images/cats/muta.jpg",
+      "isGhibli": true,
+      "movie": "The Cat Returns",
+      "posterPath": "/posters/the-cat-returns.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cat King",
+      "imageUrl": "/images/cats/the-cat-king.jpg",
+      "isGhibli": true,
+      "movie": "The Cat Returns",
+      "posterPath": "/posters/the-cat-returns.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Yuki",
+      "imageUrl": "/images/cats/yuki.jpg",
+      "isGhibli": true,
+      "movie": "The Cat Returns",
+      "posterPath": "/posters/the-cat-returns.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Haru",
+      "imageUrl": "/images/cats/haru-yoshioka.jpg",
+      "isGhibli": true,
+      "movie": "The Cat Returns",
+      "posterPath": "/posters/the-cat-returns.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Baron Humbert von Gikkingen",
+      "imageUrl": "/images/cats/humbert.jpg",
+      "isGhibli": true,
+      "movie": "The Cat Returns",
+      "posterPath": "/posters/the-cat-returns.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Natori",
+      "imageUrl": "/images/cats/natori.jpg",
+      "isGhibli": true,
+      "movie": "The Cat Returns",
+      "posterPath": "/posters/the-cat-returns.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Mao",
+      "imageUrl": "/images/cats/mao.jpg",
+      "isGhibli": false,
+      "movie": "Darker than Black",
+      "posterPath": "/posters/darker-than-black.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Babu",
+      "imageUrl": "/images/cats/babu.jpg",
+      "isGhibli": false,
+      "movie": "Seven Little Monsters",
+      "posterPath": "/posters/seven-little-monsters.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Prince Lune",
+      "imageUrl": "/images/cats/prince-lune.jpg",
+      "isGhibli": true,
+      "movie": "The Cat Returns",
+      "posterPath": "/posters/the-cat-returns.jpg"
+    }
+  ]
+  
